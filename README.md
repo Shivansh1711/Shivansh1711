@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shivansh1711
 - 👀 I’m interested in solving and debugging codes
 - 🌱 I’m currently learning python as well as javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -ojharishu000@gmail.com
 
 <!---
